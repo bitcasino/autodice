@@ -4,9 +4,9 @@
 
 var config = {
   // - Your app's id on moneypot.com
-  app_id: 497,                             // <----------------------------- EDIT ME!
+  app_id: 714,                             // <----------------------------- EDIT ME!
   // - Displayed in the navbar
-  app_name: 'Invest Dice',
+  app_name: 'Auto Dice',
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
   recaptcha_sitekey: '6LfaxAsTAAAAAB-08wFZ6KVZQ9ez_wS7anE0wa1D',  // <----- EDIT ME!

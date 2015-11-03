@@ -9,7 +9,7 @@ var config = {
   app_name: 'Auto Dice',
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
-  recaptcha_sitekey: '6LdJNRATAAAAAJPUy_UL2ckWt8bfbN5NYr5RsFsH',  // <----- EDIT ME!
+  recaptcha_sitekey: '6LeNNBATAAAAAHBmseBMwv-m2HWXd0pEqeTxadE0',  // <----- EDIT ME!
   redirect_uri: 'https://autodice.github.io',
   mp_browser_uri: 'https://www.moneypot.com',
   mp_api_uri: 'https://api.moneypot.com',

@@ -4,7 +4,7 @@
 
 var config = {
   // - Your app's id on moneypot.com
-  app_id: 1346,                             // <----------------------------- EDIT ME!
+  app_id: 1362,                             // <----------------------------- EDIT ME!
   // - Displayed in the navbar
   app_name: 'Auto Dice',
   // - For your faucet to work, you must register your site at Recaptcha
